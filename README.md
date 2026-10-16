@@ -1,86 +1,151 @@
-<h1 align="center">Hi 👋, I'm Dilip Lakavath</h1>
-<p align="center">Aspiring Data Analyst • Python | SQL | Power BI | Machine Learning<br/>
-Based in Hyderabad, India 🇮🇳</p>
+<!--
+  Dilip Lakavath | GitHub Profile README
+  Repository: IAMDILIP46/IAMDILIP46
+-->
 
 <p align="center">
-  <a href="https://linkedin.com/in/diliplakavath"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:lakavathdilipnayak9666@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/IAMDILIP46"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0F172A%2C100%3A2563EB&height=220&section=header&text=Dilip%20Lakavath&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20%7C%20SOFTWARE%20%7C%20AI&descSize=17&descAlignY=58&animation=fadeIn" width="100%" alt="Dilip Lakavath — Data, Software, AI"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I’m a data-focused problem solver who loves turning raw data into clear, actionable insights. I build end-to-end analytics pipelines, dashboards, and ML-backed features using Python, SQL and BI tools. I enjoy collaborating with product and business teams to solve real-world problems using data.
-
-- 🔭 I’m currently: Building an AI-powered analytics project (Zensai) and improving dashboard automation.
-- 🌱 I’m learning: advanced SQL performance tuning, productionizing ML models, and Power BI advanced features.
-- 👯 I’m open to: data analysis, dashboarding, and machine learning collaborations.
-- 💬 Ask me about: data cleaning, SQL, Pandas, Power BI, data visualization, and beginner ML.
-
----
-
-## 🔧 Technical Skills
-
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-FA7E00?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-- **Zensai** — AI-powered analytics assistant
-  - Tech: Python, Flask, Pandas, Scikit-learn
-  - Summary: Natural language driven insights and automated reports for small businesses. (repo: https://github.com/IAMDILIP46/zensai-)
-
-- **SmartCollage** — Multimedia collage generator
-  - Tech: Java, OpenCV
-  - Summary: Desktop app to automatically generate themed image collages with layout algorithms. (repo: https://github.com/IAMDILIP46/SmartCollage-)
-
-- **zensai-final** — [Add summary here]
-  - Tech: [Add tech stack]
-  - Summary: [Short description]
-
-(Pin these repos on your profile to highlight them.)
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">
+  Computer Science Student · Developer · Data Analytics Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IAMDILIP46&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAMDILIP46&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="48%" />
+  <a href="https://github.com/IAMDILIP46">
+    <img src="https://img.shields.io/badge/GitHub-IAMDILIP46-181717?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://linkedin.com/in/diliplakavath">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:lakavathdilipnayak9666@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Contact & Connect
+## About Me
 
-- LinkedIn: https://linkedin.com/in/diliplakavath
-- Email: lakavathdilipnayak9666@gmail.com
+I'm Dilip Lakavath, a Computer Science student interested in building useful software, extracting insights from data, and exploring how AI can solve real-world problems.
+
+I enjoy working across development and analytics — from writing code and building applications to querying databases, analyzing business data, and turning findings into actionable insights.
+
+- Currently focused on **software development and data analytics**.
+- Interested in **AI-powered applications, automation, and business intelligence**.
+- Enjoy building projects that combine technical implementation with practical problem-solving.
+- Based in **Hyderabad, India**.
+
+> I believe good technology should do more than work — it should solve a meaningful problem.
 
 ---
 
-## ☕ Fun & Extras
+## Featured Projects
 
-- Pronouns: He/Him
-- Fun fact: I enjoy combining creativity and data — I once built an automated collage generator that arranges photos by color and emotion.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 · Zensai</h3>
+      <p>An AI-powered platform built with Python.</p>
+      <p>
+        <a href="https://github.com/IAMDILIP46/zensai-">
+          <img src="https://img.shields.io/badge/Explore_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore Zensai"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 · SmartCollage</h3>
+      <p>A Java-based application demonstrating software development.</p>
+      <p>
+        <a href="https://github.com/IAMDILIP46/SmartCollage-">
+          <img src="https://img.shields.io/badge/Explore_Project-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore SmartCollage"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-If you’d like, I can:
-- Add screenshot images for projects,
-- Expand any project's README, or
-- Link to a hosted demo or resume.
+## Technology Stack
 
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts" alt="Python, Java, JavaScript and TypeScript"/>
+</p>
+
+### Data Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+</p>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" alt="Pandas and NumPy"/>
+</p>
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code"/>
+</p>
+
+---
+
+## Areas of Interest
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Software</h3>
+      <p>Application development, programming, APIs and problem-solving.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Analytics</h3>
+      <p>Data exploration, SQL, visualization and business insights.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Artificial Intelligence</h3>
+      <p>AI-powered products, intelligent workflows and automation.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## GitHub Overview
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IAMDILIP46&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Dilip's GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAMDILIP46&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IAMDILIP46&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## Let's Connect
+
+I'm interested in connecting with developers, data professionals, and builders working on meaningful technology projects.
+
+<p align="center">
+  <a href="https://github.com/IAMDILIP46">GitHub</a>
+  &nbsp; • &nbsp;
+  <a href="https://linkedin.com/in/diliplakavath">LinkedIn</a>
+  &nbsp; • &nbsp;
+  <a href="mailto:lakavathdilipnayak9666@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <i>Think critically. Build practically. Let the results speak.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0%3A0F172A%2C100%3A2563EB&height=100&section=footer" width="100%" alt="Decorative footer"/>
+</p>
